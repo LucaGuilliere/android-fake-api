@@ -50,26 +50,74 @@
     }
   ],
   "printers": [
-  {
-    "id": 1,
-    "name": "Bambu Lab P1S",
-    "status": "Disponible",
-    "description": "Imprimante ultra-rapide avec AMS.",
-    "imageName": "p1s"
-  },
-  {
-    "id": 2,
-    "name": "Creality Ender 3",
-    "status": "En impression",
-    "description": "Un classique, modifiable à volonté.",
-    "imageName": "ender3"
-  },
-  {
-    "id": 3,
-    "name": "Prusa MK4",
-    "status": "Maintenance",
-    "description": "Excellente qualité pour pièces précises.",
-    "imageName": "prusa_mk4"
-  }
-]
+    {
+      "id": 1,
+      "name": "Bambu Lab P1S",
+      "status": "Disponible",
+      "description": "Imprimante ultra-rapide avec AMS.",
+      "imageName": "p1s",
+      "history": [
+        {
+          "file": "support_telephone.stl",
+          "date": "2025-07-25",
+          "duration": "1h12",
+          "result": "succès"
+        },
+        {
+          "file": "range_cables.stl",
+          "date": "2025-07-24",
+          "duration": "56min",
+          "result": "succès"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Creality Ender 3",
+      "status": "En impression",
+      "description": "Un classique, modifiable à volonté.",
+      "imageName": "ender3",
+      "history": [
+        {
+          "file": "organiseur_bureau.stl",
+          "date": "2025-07-23",
+          "duration": "2h15",
+          "result": "succès"
+        },
+        {
+          "file": "boite_vis.stl",
+          "date": "2025-07-22",
+          "duration": "48min",
+          "result": "échec"
+        },
+        {
+          "file": "porte_cles.stl",
+          "date": "2025-07-21",
+          "duration": "37min",
+          "result": "succès"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Prusa MK4",
+      "status": "Maintenance",
+      "description": "Excellente qualité pour pièces précises.",
+      "imageName": "prusa_mk4",
+      "history": [
+        {
+          "file": "support_casque.stl",
+          "date": "2025-07-20",
+          "duration": "1h30",
+          "result": "succès"
+        },
+        {
+          "file": "boite_vis.stl",
+          "date": "2025-07-19",
+          "duration": "52min",
+          "result": "succès"
+        }
+      ]
+    }
+  ]
 }
