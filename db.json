@@ -16,7 +16,7 @@
       "id": 1,
       "name": "Support Téléphone",
       "description": "Un support inclinable imprimable en PLA.",
-      "price": 4.5
+      "price": 10
     },
     {
       "id": 2,
@@ -46,7 +46,7 @@
       "id": 6,
       "name": "Range câbles",
       "description": "Un petit outil pour organiser tes câbles.",
-      "price": 2.5
+      "price": 25
     }
   ],
   "printers": [
