@@ -12,26 +12,41 @@
     }
   ],
   "products": [
-  {
-    "id": 1,
-    "name": "Support Téléphone",
-    "description": "Un support inclinable imprimable en PLA.",
-    "price": 4.5,
-    "imageUrl": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 2,
-    "name": "Boîte à vis",
-    "description": "Boîte avec compartiments, à imprimer sans support.",
-    "price": 3.0,
-    "imageUrl": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 3,
-    "name": "Organiseur de bureau",
-    "description": "Permet de ranger stylos, câbles et cartes SD.",
-    "price": 6.9,
-    "imageUrl": "https://via.placeholder.com/150"
-  }
-]
+    {
+      "id": 1,
+      "name": "Support Téléphone",
+      "description": "Un support inclinable imprimable en PLA.",
+      "price": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Boîte à vis",
+      "description": "Boîte avec compartiments, à imprimer sans support.",
+      "price": 3.0
+    },
+    {
+      "id": 3,
+      "name": "Organiseur de bureau",
+      "description": "Permet de ranger stylos, câbles et cartes SD.",
+      "price": 6.9
+    },
+    {
+      "id": 4,
+      "name": "Porte-clés 3D",
+      "description": "Porte-clés personnalisé imprimé en PLA.",
+      "price": 1.5
+    },
+    {
+      "id": 5,
+      "name": "Support Casque",
+      "description": "Support élégant pour casque audio, sans vis.",
+      "price": 7.9
+    },
+    {
+      "id": 6,
+      "name": "Range câbles",
+      "description": "Un petit outil pour organiser tes câbles.",
+      "price": 2.5
+    }
+  ]
 }
