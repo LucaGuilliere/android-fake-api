@@ -48,5 +48,28 @@
       "description": "Un petit outil pour organiser tes câbles.",
       "price": 2.5
     }
-  ]
+  ],
+  "printers": [
+  {
+    "id": 1,
+    "name": "Bambu Lab P1S",
+    "status": "Disponible",
+    "description": "Imprimante ultra-rapide avec AMS.",
+    "imageName": "p1s"
+  },
+  {
+    "id": 2,
+    "name": "Creality Ender 3",
+    "status": "En impression",
+    "description": "Un classique, modifiable à volonté.",
+    "imageName": "ender3"
+  },
+  {
+    "id": 3,
+    "name": "Prusa MK4",
+    "status": "Maintenance",
+    "description": "Excellente qualité pour pièces précises.",
+    "imageName": "prusa_mk4"
+  }
+]
 }
